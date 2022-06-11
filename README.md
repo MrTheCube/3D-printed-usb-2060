@@ -1,3 +1,4 @@
+# 3D-printed-usb-2060
 
 So basically, I am sort of a tech nerd and I found that the newer FE (fan edition) cards from nvidia are really good looking.
 I wanted to buy one but the prices seems to go up a little lol, so I asked my self : "what would be the best way to get 
