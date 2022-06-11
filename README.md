@@ -6,3 +6,6 @@ sort of a functionnal one, that does not cost 800 bucks and I can plug in my lap
 stick shell that looks like an RTX 3060. I did spend a small 4 to 5 houres in this projects, more than 3 prototypes (I've added the 
 fans later in the 2nd prototype because i did not knew how to make them small and robust) and a day do figure how to take the stupid 
 supports of lol.
+
+
+here is the thingiverse link : https://www.thingiverse.com/thing:4943098
